@@ -1,0 +1,19 @@
+
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>js/imports.js</file>
+        <file>PlayerData/Walk_Down1.png</file>
+        <file>PlayerData/Walk_Down2.png</file>
+        <file>PlayerData/Walk_Down3.png</file>
+        <file>PlayerData/Walk_Right1.png</file>
+        <file>PlayerData/Walk_Right2.png</file>
+        <file>PlayerData/Walk_Right3.png</file>
+        <file>PlayerData/Walk_Left1.png</file>
+        <file>PlayerData/Walk_Left2.png</file>
+        <file>PlayerData/Walk_Left3.png</file>
+        <file>PlayerData/Walk_Up1.png</file>
+        <file>PlayerData/Walk_Up2.png</file>
+        <file>PlayerData/Walk_Up3.png</file>
+    </qresource>
+</RCC>

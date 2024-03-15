@@ -1,0 +1,5 @@
+/home/james/Documents/Confirmed Projects/Game/build/CMakeFiles/Game.dir
+/home/james/Documents/Confirmed Projects/Game/build/CMakeFiles/edit_cache.dir
+/home/james/Documents/Confirmed Projects/Game/build/CMakeFiles/rebuild_cache.dir
+/home/james/Documents/Confirmed Projects/Game/build/CMakeFiles/Game_autogen_timestamp_deps.dir
+/home/james/Documents/Confirmed Projects/Game/build/CMakeFiles/Game_autogen.dir
